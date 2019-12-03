@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: duration.bug
+---
+testFramework: junit
+sourceLanguage: java

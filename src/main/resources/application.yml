@@ -1,0 +1,6 @@
+micronaut:
+  server:
+    port: 8080
+    idle-timeout: 1h
+  application:
+    name: duration-bug
